@@ -46,6 +46,7 @@ highlight:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  闲谈: boring
 tag_map:
 
 # Date / Time format

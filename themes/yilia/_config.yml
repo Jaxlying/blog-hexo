@@ -2,7 +2,9 @@
 menu:
   主页: /
   所有文章: /archives
+  闲谈: /categories/boring
   # 随笔: /tags/随笔
+
 
 # SubNav
 subnav:
@@ -50,7 +52,6 @@ tagcloud: true
 #friends: false
 #开启——
 friends:
-  托蒂的博客: http://localhost:4000/
   石大易班: http://yb.upc.edu.cn/project/blog
 
 #是否开启“关于我”。
