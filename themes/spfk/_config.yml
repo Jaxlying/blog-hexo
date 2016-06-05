@@ -129,24 +129,24 @@ tagcloud: false
 # Blogroll, Link exchange | 友情链接
 # friends: false
 friends:
-  MOxFIVE: http://MOxFIVE.github.io/
-  DoubleV: http://www.vsay.cn/
-  兮兮: http://www.ccwebsite.com/
-  翁天信: http://blog.dandyweng.com/
-  潘利强: http://www.plqblog.com/views/index.php
-  hankin: http://www.hankin.cn/
-  waydrow: http://blog.waydrow.com/
+  # MOxFIVE: http://MOxFIVE.github.io/
+  # DoubleV: http://www.vsay.cn/
+  # 兮兮: http://www.ccwebsite.com/
+  # 翁天信: http://blog.dandyweng.com/
+  # 潘利强: http://www.plqblog.com/views/index.php
+  # hankin: http://www.hankin.cn/
+  # waydrow: http://blog.waydrow.com/
 
 #是否开启“关于我”。
-aboutme: 纯海迷、爱运动、爱交友、爱旅行、喜欢接触新鲜事物、迎接新的挑战，更爱游离于错综复杂的编码与逻辑中
+# aboutme: 纯海迷、爱运动、爱交友、爱旅行、喜欢接触新鲜事物、迎接新的挑战，更爱游离于错综复杂的编码与逻辑中
 #aboutme: false
 
 # 是否在新窗口打开链接
 # Open ALL link in a new tab
-open_in_new: false
+open_in_new: true
 
 # Customize feed link 自定义订阅地址
-rss: /atom.xml
+#rss: /atom.xml
 
 
 # >>> Vendors | 第三方工具 & 服务 <<<
