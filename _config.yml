@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 一个人的角落
 subtitle:
 description:
-author: John Doe
+author: yyljj
 language:
 timezone:
 
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: jacman
+theme: yilia
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
