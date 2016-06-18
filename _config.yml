@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 一个人的角落
+title: Hexo
 subtitle:
 description:
-author: yyljj
+author: John Doe
 language:
 timezone:
 
@@ -46,7 +46,6 @@ highlight:
 # Category & Tag
 default_category: uncategorized
 category_map:
-  闲谈: boring
 tag_map:
 
 # Date / Time format
@@ -64,11 +63,9 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: spfk
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
-
-duoshuo_shortname: yyljj
