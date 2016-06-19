@@ -5,4 +5,4 @@ hexo官方的介绍是一个快速、简洁且高效的博客框架
 该主题是在[jacman]https://github.com/wuchong/jacman的基础上进行修改而成。
 
 ## licence
-[MIT](/LICENSE.md)
+[MIT](/LICENCE.md)
