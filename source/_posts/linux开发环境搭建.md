@@ -7,7 +7,7 @@ categories: linux
 以下记录我在linux系统下搭建开发环境的时候所安装的软件，防止哪天重装系统的时候不知道该装点啥软件
 
 1. 科学上网
-    [shadowsocks](https://github.com/shadowsocks/shadowsocks-qt5/wiki/%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97)小飞机
+    1. [shadowsocks](https://github.com/shadowsocks/shadowsocks-qt5/wiki/%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97)小飞机
 2. 终端强化工具zsh(强烈推荐)
     ```
     sudo dnf install zsh
