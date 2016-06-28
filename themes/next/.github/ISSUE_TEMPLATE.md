@@ -16,7 +16,7 @@ NexT Version:
 
   -  Master
   -  Latest Release
-  -  Old version - 
+  -  Old version -
 
 NexT Scheme:
   -  All schemes
@@ -25,5 +25,3 @@ NexT Scheme:
   -  Pisces
 
 ### Other Informations (Like Browser, System, Screenshots)
-
-

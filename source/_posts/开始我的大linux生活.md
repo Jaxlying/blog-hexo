@@ -1,7 +1,7 @@
 ---
 title: 开始我的大linux生活
 date: 2016-06-05 13:57:39
-tags:
+tags: ['linux','boring']
 categories: 闲谈
 ---
 为什么要开始我的大linux生活呢？
