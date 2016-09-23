@@ -4,3 +4,5 @@ echo "commit"
 cd public
 git add .
 git commit
+echo "push"
+git push
