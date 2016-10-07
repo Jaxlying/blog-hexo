@@ -73,7 +73,7 @@ feed:
   limit: 20
 
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: tranquilpeak
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -93,5 +93,5 @@ duoshuo_share: true
 #   field: post
 
 
-# Swiftype Search Key
-swiftype_key: qVy8wK-_-DsEUmE4LDym
+# # Swiftype Search Key
+# swiftype_key: qVy8wK-_-DsEUmE4LDym
