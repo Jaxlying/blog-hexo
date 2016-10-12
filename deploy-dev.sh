@@ -1,4 +1,4 @@
-echo "checkout master"
+echo "checkout dev"
 git checkout master
 echo "generate"
 hexo g
