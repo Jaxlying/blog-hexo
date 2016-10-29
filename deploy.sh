@@ -1,5 +1,3 @@
-echo "checkout master"
-git checkout master
 echo "generate"
 hexo g
 echo "commit"
