@@ -3,6 +3,6 @@ hexo g
 echo "commit"
 cd public
 git add .
-git commit
+git commit -m "$*"
 echo "push"
 git push
