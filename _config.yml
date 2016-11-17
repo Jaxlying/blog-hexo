@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Jaxlying
+title: alpha
 subtitle:
 description:
-author: Jaxlying
+author: alpha
 language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://jaxlying.github.io
+url: http://www.liuyang.pw
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -73,14 +73,14 @@ feed:
   limit: 20
 
 ## Themes: https://hexo.io/themes/
-theme: yilia
+theme: maupassant
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
 
-duoshuo_shortname: yyljj
+duoshuo_shortname: alphalyang
 
 #分享
 # jiathis: true
@@ -91,7 +91,5 @@ duoshuo_share: true
 # search:
 #   path: search.xml
 #   field: post
-
-
 # # Swiftype Search Key
 # swiftype_key: qVy8wK-_-DsEUmE4LDym

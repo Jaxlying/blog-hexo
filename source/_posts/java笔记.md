@@ -2,11 +2,13 @@
 title: java笔记
 date: 2016-10-28 14:40:51
 tags: ['java']
-categories:
+categories: ['java']
 ---
 记录一些常用的但是我记不住的java用法。
 <!-- more -->
 
+* 建立新类的时候优先考虑组合再考虑继承。
+* private继承类不能访问，protected继承类可以访问，其他与private相当。
 * 结束某线程
 	使用interrupt()方法。但调用之后不会结束线程会抛出InterruptedException异常，
 	捕获该异常并使用break退出死循环。
