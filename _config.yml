@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: alpha
+title: 刘阳的个人博客
 subtitle:
-description:
-author: alpha
-language: zh-Hans
+description:  分享，思考，提高。
+author: lylllcc
+language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://www.liuyang.pw
+url: https://lylllcc.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -62,34 +62,17 @@ pagination_dir: page
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
-#RSS订阅
-plugin:
-- hexo-generator-feed
-- hexo-generator-sitemap
-#Feed Atom
-feed:
-  type: atom
-  path: atom.xml
-  limit: 20
-
 ## Themes: https://hexo.io/themes/
-theme: maupassant
+theme: material
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
 
-duoshuo_shortname: alphalyang
-
-#分享
-# jiathis: true
-
-duoshuo_share: true
-
-# 本地搜索
-# search:
-#   path: search.xml
-#   field: post
-# # Swiftype Search Key
-# swiftype_key: qVy8wK-_-DsEUmE4LDym
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content: true
