@@ -1,0 +1,115 @@
+.bd-logo{
+  text-align: center;
+}
+.bd-logo-img{
+  width: 270px;
+  height: 129px;
+}
+.search-form{
+  padding-top: 20px;
+  text-align: center;
+  width: 307px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.search-form-div{
+  float: left;
+  width: 205px;
+}
+.search-wrapper{
+  padding-top: 20px;
+}
+.search-from-subbut{
+  float: left;
+  width: 102px;
+}
+
+.search-from-subbut {
+  float: left;
+  width: 102px;
+}
+
+.search-from-subbut input[type="submit"] {
+  background-color: #38f;
+  color: white;
+  font-size: 16px;
+  border: 0;
+  cursor: pointer;
+  width: 102px;
+  height: 38px;
+  line-height: 38px;
+  padding: 0;
+  outline: 0;
+}
+
+.search-form-div input[type="text"] {
+  width: 190px;
+  height: 20px;
+  padding: 9px 7px;
+  font: 16px;
+  border: 1px solid #b8b8b8;
+  border-bottom: 1px solid #ccc;
+  border-right: 0;
+  vertical-align: top;
+  outline: none;
+  box-shadow: none;
+}
+.search-form-div input[type="text"]:hover {
+  border: 1px solid #999;
+  border-bottom: 1px solid #b3b3b3;
+  border-right: 0;
+}
+.search-form-div input[type="text"]:focus {
+  border: 1px solid #38f;
+  border-right: 0;
+}
+.gen-box {
+  clear: both;
+  padding-top: 50px;
+  text-align: center;
+  line-height: 2.5;
+  display: none;
+}
+
+.gen-button {
+  cursor: pointer;
+  width: 120px;
+  padding: 9px 7px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  background-color: white;
+  color: #777;
+  text-decoration: none;
+  font-size: 14px;
+  outline: 0;
+}
+
+.gen-button:hover {
+  background-color: #f0f0f0;
+}
+
+#link {
+  font-size: 13px;
+}
+
+.cursor {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+}
+
+@media screen and (min-width: 768px){
+  .search-wrapper{
+    padding-top: 100px;
+  }
+  .search-form{
+    width: 622px;
+  }
+  .search-form-div{
+    float: left;
+    width: 520px;
+  }
+  .search-form-div input[type="text"] {
+    width: 505px;
+  }
+}
